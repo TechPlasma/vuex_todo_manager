@@ -1,4 +1,9 @@
-# vuex_todo_manager
+# Vuex Todo Manager Tutorial
+- Vuex
+- Axios integration
+- Advanced Vue Functions
+
+https://www.youtube.com/watch?v=5lVQgZzLMHc
 
 ## Project setup
 ```
